@@ -1,0 +1,15 @@
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/bin/Debug/net8.0/Selecao
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/bin/Debug/net8.0/Selecao.deps.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/bin/Debug/net8.0/Selecao.runtimeconfig.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/bin/Debug/net8.0/Selecao.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/bin/Debug/net8.0/Selecao.pdb
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/Selecao.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/Selecao.AssemblyInfoInputs.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/Selecao.AssemblyInfo.cs
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/Selecao.csproj.CoreCompileInputs.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/Selecao.sourcelink.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/Selecao.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/refint/Selecao.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/Selecao.pdb
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/Selecao.genruntimeconfig.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Selecao/obj/Debug/net8.0/ref/Selecao.dll
