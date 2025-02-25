@@ -1,0 +1,15 @@
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/bin/Debug/net8.0/OperacoesAritimeticas
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/bin/Debug/net8.0/OperacoesAritimeticas.deps.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/bin/Debug/net8.0/OperacoesAritimeticas.runtimeconfig.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/bin/Debug/net8.0/OperacoesAritimeticas.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/bin/Debug/net8.0/OperacoesAritimeticas.pdb
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/OperacoesAritimeticas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/OperacoesAritimeticas.AssemblyInfoInputs.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/OperacoesAritimeticas.AssemblyInfo.cs
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/OperacoesAritimeticas.csproj.CoreCompileInputs.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/OperacoesAritimeticas.sourcelink.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/OperacoesAritimeticas.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/refint/OperacoesAritimeticas.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/OperacoesAritimeticas.pdb
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/OperacoesAritimeticas.genruntimeconfig.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/OperacoesAritimeticas/obj/Debug/net8.0/ref/OperacoesAritimeticas.dll

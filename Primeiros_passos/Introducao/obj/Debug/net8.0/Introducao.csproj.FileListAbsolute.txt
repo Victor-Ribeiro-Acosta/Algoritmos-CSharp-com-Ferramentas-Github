@@ -1,0 +1,15 @@
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/bin/Debug/net8.0/Introducao
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/bin/Debug/net8.0/Introducao.deps.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/bin/Debug/net8.0/Introducao.runtimeconfig.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/bin/Debug/net8.0/Introducao.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/bin/Debug/net8.0/Introducao.pdb
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/Introducao.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/Introducao.AssemblyInfoInputs.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/Introducao.AssemblyInfo.cs
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/Introducao.csproj.CoreCompileInputs.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/Introducao.sourcelink.json
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/Introducao.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/refint/Introducao.dll
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/Introducao.pdb
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/Introducao.genruntimeconfig.cache
+/workspaces/Algoritmos-CSharp-com-Ferramentas-Github/Primeiros_passos/Introducao/obj/Debug/net8.0/ref/Introducao.dll
